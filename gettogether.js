@@ -4,8 +4,8 @@ function inviteUserToClassGetTogether() {
     const date = "Friday, December 20th, 2024";
     const time = "12:00 PM";
     const location = "Ayomiposi house";
-    const activities = ["Games", "Music", "football for the boys", "Reconnecting"];
-    const foodAndDrinks = ["Alcohol", "sides", "Snacks", "NO-SOFT-DRINK"];
+    const activities = ["Games", "Music", "football game(ps4)", "Reconnecting"];
+    const foodAndDrinks = ["Alcohol", "sides", "Snacks", "soft-drinks"];
   
     const invitationMessage = `
       Hi ${userName},
